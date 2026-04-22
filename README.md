@@ -15,6 +15,6 @@ A professional-grade movie recommendation engine built with **Collaborative Filt
 * **API:** TMDB (The Movie Database)
 
 ## 📦 Installation
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/movie-recommender.git`
+1. Clone the repo: `git clone https://github.com/mahi07-cloud/movie-recommender.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
